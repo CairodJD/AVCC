@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6275fa6c376f29340a5aaa67d3a332b4, type: 3}
+  m_Name: Rembobinage
+  m_EditorClassIdentifier: 
+  cardName: Rembobinage
+  artwork: {fileID: 21300000, guid: 63a0bcc9a54626e4da0b15b8dbc44ecf, type: 3}
+  description: rewind
+  cooldown: 3
+  persitence: 6
+  NodePrefab: {fileID: 5285329407996129044, guid: 1bf108c0a0e4780478b5bc2ef393e0ad,
+    type: 3}
+  availabeClicks: 1
+  isGlobal: 0

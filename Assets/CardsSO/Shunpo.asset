@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6275fa6c376f29340a5aaa67d3a332b4, type: 3}
+  m_Name: Shunpo
+  m_EditorClassIdentifier: 
+  cardName: Shunpo
+  artwork: {fileID: 21300000, guid: 7117a30df5ecf7745a6d244a2b4cac0f, type: 3}
+  description: Sidestep
+  cooldown: 3
+  persitence: 6
+  NodePrefab: {fileID: 5285329407996129044, guid: eb59c0d3d7d7da84597fc218b088e78e,
+    type: 3}
+  availabeClicks: 1
+  isGlobal: 0
